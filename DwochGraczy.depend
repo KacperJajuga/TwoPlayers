@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1639310782 source:c:\users\kacpi\onedrive\pulpit\2 graczy\dwochgraczy\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
